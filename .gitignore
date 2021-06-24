@@ -132,3 +132,6 @@ dmypy.json
 .idea
 
 .DS_Store
+
+docs/*.txt
+!docs/placeholder.txt
