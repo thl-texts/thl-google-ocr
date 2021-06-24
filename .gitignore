@@ -130,3 +130,5 @@ dmypy.json
 
 # IDE (pycharm)
 .idea
+
+.DS_Store
