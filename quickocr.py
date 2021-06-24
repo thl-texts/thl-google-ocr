@@ -3,10 +3,10 @@ from google.cloud import vision
 
 bucket = 'ngb-peltsek-scans'
 folder = 'ngb_vol58jpg'
-startpg = 0
-endpg = 200
+startpg = 201
+endpg = 500
 outdir = 'docs'
-outfilenm = 'pt-vol058-ocr-1-200.txt'
+outfilenm = 'pt-vol058-ocr-201-500.txt'
 
 outpath = path.join(outdir, outfilenm)
 client = vision.ImageAnnotatorClient()

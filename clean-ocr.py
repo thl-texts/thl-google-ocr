@@ -1,7 +1,7 @@
 # Script to clean up OCR
 
-file_in = 'docs/filein.txt'
-file_out = 'docs/fileout.txt'
+file_in = 'docs/pt-vol058-ocr-1-200.txt'
+file_out = 'docs/pt-vol058-ocr-1-200-clean.txt'
 
 margin = 'རྙིང་རྒྱུད།'
 tibvol = 'འ '
